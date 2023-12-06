@@ -1,0 +1,59 @@
+body {
+ background-color:#AAAAAA;
+/*margin: 0.5;
+    overflow: hidden;*/
+}
+
+#webgl{
+ /*border:solid 2px red;
+ margin-left: 0.5cm;
+ width:95%;
+ height:95%;*/
+ background-color:white;
+}
+
+#hourra{
+ background-color : #000000;
+ color : #FFFFFF;
+ font-weight : 900;
+}
+#beurk{
+ background-color : black;
+ color : white;
+ font-weight : 900;
+}
+
+th, td{
+ border : solid red 2px; 
+}
+#TableauCamera{
+ text-align:center;
+ border : solid red 2px;
+ background-color:green;
+ border-collapse:collapse;
+}
+
+#vecU{
+ color:#FFFF00;
+ background-color:#0000FF;
+ font-weight:900;
+}
+
+
+#vecV{
+ color:#FF00FF;
+ background-color:#00FF00;
+ font-weight:900;
+}
+
+
+#vecW{
+ color:#00FFFF;
+ background-color:#FF0000;
+ font-weight:900;
+}
+
+#vecNul{
+ background-color:#FFFFFF;
+ font-weight:900;
+}
